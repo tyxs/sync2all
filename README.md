@@ -4,7 +4,6 @@ actions sync食用方法
 
 
 name: XXXX-sync # yml名称（区分同步脚本名称）
-
 on:
   schedule:
     - cron: '1 */2 * * *' # cron定时更新频率
